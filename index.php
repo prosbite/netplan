@@ -92,8 +92,8 @@ class User
 // Database connection configuration
 $db_host = "localhost";
 $db_name = "websec";
-$db_user = "leo";
-$db_pass = "websec";
+$db_user = "wormhole";
+$db_pass = "wormhole";
 
 try {
     // Connect to the database using PDO
